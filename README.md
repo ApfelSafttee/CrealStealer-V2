@@ -1,19 +1,19 @@
 <a id="top"></a>
-<h1 align="center">
-⚠️BE AWARE OF USING THIS REPO https://github.com/doenerium6969/doenerium-fixed . HES DUALHOOKING
+<h1 align="center">✨ NEW Creal Stealer V2✨</h1>
 
-# 👁‍🗨 HERE IS THE PROOF VIDEO
-https://github.com/user-attachments/assets/5548de2a-6983-4ae4-8d71-147277522670
+<p align="center">
+  <kbd>
+    <img src="https://i.imgur.com/MjoICHp.png" width="420">
+  </kbd>
+</p>
 
-</h1>
+<p align="center">
+  <a href="https://skids.rip/discord" target="_blank">✨ Join our Discord (Click here!) ✨</a>
+</p>
 
-
-
-<h1 align="center">
-  Telegram Community: https://t.me/doeneriumexposed
-  <br>
-  <br>
-</h1>
+<p align="center">
+  <a href="https://skids.rip/discord" target="_blank">✨ Join Our Telegram (Click here!) ✨</a>
+</p>
 
 
 ## 🌐 〢 Content
