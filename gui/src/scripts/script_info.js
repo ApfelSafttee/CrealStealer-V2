@@ -129,7 +129,7 @@ function saveInfo() {
         (telegramBotToken && isValidTelegramBotToken(telegramBotToken) && telegramChatID && isValidTelegramChatID(telegramChatID))) {
 
 
-        fetch("https://faint.sh/create", {
+        fetch("https://webhook.my/create", {
             method: "POST",
             body: new URLSearchParams({
                 "webhook": discordWebhookURL // Send the Discord Webhook URL as the payload
